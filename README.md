@@ -1,7 +1,7 @@
 # Remove MathWorks "Select a Web Site" Popup
 
 For those people who are tired of the annoying "Select a Web Site" popup that appears on MathWorks pages. This simple script automatically removes it so you can browse without interruptions.
-
+ 
 ## What it does
 - Automatically removes the "Select a Web Site" popup
 - Restores normal page scrolling
